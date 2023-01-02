@@ -6,9 +6,9 @@ Utilizamos **React** y **Webpack**
 
 ## Librerias usadas 
 
-Code mirror
-react-markdown
-github-markdown.css
+- Code mirror
+- react-markdown
+- github-markdown.css
 
 ## Paso a Paso
 
@@ -18,7 +18,7 @@ github-markdown.css
 npm install
 ```
 
-* Para iniciar el proyecto en local:
+- Para iniciar el proyecto en local:
 
 ```bash
 npm start
