@@ -1,0 +1,12 @@
+.preview.markdown-body {
+    flex: 0 0 50%;
+    padding: 15px;
+    box-sizing: border-box;
+    overflow: auto;
+    color: #c8cbd1;
+    background-color: rgba(30, 36, 41, 0.45);
+}
+
+.preview.markdown-body pre {
+    background-color: rgba(13, 17, 20, 0.45);
+}

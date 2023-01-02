@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  background-color: rgb(70, 70, 65);
+}
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace
+}
