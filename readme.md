@@ -12,7 +12,7 @@ Utilizamos **React** y **Webpack**
 
 ## Paso a Paso
 
-- Hacemos un _npm install_
+- Hacemos _npm install_
 
 ```bash
 npm install
